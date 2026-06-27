@@ -66,19 +66,19 @@ Not Included Publicly:
 
 ```text
 crypto-radar/
-|-- README.md
-|-- docs/
-|   |-- project-overview.md
-|   |-- system-architecture.md
-|   |-- workflow.md
-|   |-- information-to-decision-pipeline.md
-|   |-- data-governance.md
-|   |-- evaluation-rubric.md
-|   |-- sample-radar-item.md
-|   |-- product-roadmap.md
-|   `-- sutd-fit.md
-`-- assets/
-    `-- README.md
+├── README.md
+├── docs/
+│   ├── project-overview.md
+│   ├── system-architecture.md
+│   ├── workflow.md
+│   ├── information-to-decision-pipeline.md
+│   ├── data-governance.md
+│   ├── evaluation-rubric.md
+│   ├── sample-radar-item.md
+│   ├── product-roadmap.md
+│   └── sutd-fit.md
+└── assets/
+    └── README.md
 ```
 
 - `docs/project-overview.md`: problem, target users, AI value, human review, role, and portfolio boundary.
